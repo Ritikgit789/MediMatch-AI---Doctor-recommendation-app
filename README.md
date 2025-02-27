@@ -33,7 +33,7 @@ AI-Powered Recommendation: Gemini API enhances results by suggesting additional 
 Frontend + Backend in Streamlit: A seamless, optimized UI for real-time interactions.
 Cloud Deployment: Hosted on Streamlit Cloud for global accessibility.
 
-![Architecture](Assets/
+![Architecture](Assets/Immedcure_Project.drawio.png)
 
 Deployment & Production Readiness
 
