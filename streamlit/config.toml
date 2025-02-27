@@ -1,0 +1,25 @@
+# ~/.streamlit/config.toml
+
+[theme]
+base="dark"                          # Dark mode for a sleek UI
+primaryColor="#00A8E8"                # Bright blue highlights (buttons, links)
+backgroundColor="#001a33"             # Deep navy blue for a premium look
+secondaryBackgroundColor="#002244"    # Sidebar & card backgrounds (soft contrast)
+textColor="#ffffff"                   # Pure white text for readability
+font="monospace"                      # Modern, clean font
+
+[server]
+headless = true                       # Required for Streamlit Cloud deployment
+port = 8501                           # Default Streamlit port
+enableCORS = false                    # Disable CORS (for public access)
+enableXsrfProtection = false          # Avoid issues with API calls
+
+[client]
+toolbarMode = "minimal"               # Hide Streamlit toolbar for a clean UI
+showErrorDetails = false              # Hide detailed errors (for security)
+
+[browser]
+gatherUsageStats = false              # Disable Streamlit usage tracking
+
+[logger]
+level = "error"                       # Only show errors (avoid unnecessary logs)
