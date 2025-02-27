@@ -12,7 +12,7 @@
 🌍 Find doctors from different countries and get AI-powered recommendations in a beautifully designed, interactive web app.
 
 ### Screenshots
-[!Home_page](Assets/Frontend.png)
+![Home page](Assets/Frontend.png)
 
 ## 🚀 Technologies Used
 
