@@ -11,14 +11,17 @@
 🔍 Real-time recommendations based on specialization, location, and AI-enhanced doctor insights.
 🌍 Find doctors from different countries and get AI-powered recommendations in a beautifully designed, interactive web app.
 
-# 🚀 Technologies Used
+### Screenshots
+[!Home_page](Assets/Frontend.png)
+
+## 🚀 Technologies Used
 
 Streamlit	- Used to build the entire web application (Frontend + Backend)
 Google Gemini API - LLMs used for intelligent doctor recommendations
 Pandas - Data handling and processing
 Streamlit Cloud - Deployed and running in production
 
-# 🌟 Features
+## 🌟 Features
 ✅ Search doctors by specialization & location
 ✅ AI-powered doctor recommendations using Gemini LLM
 ✅ Real-time doctor availability checking
@@ -26,14 +29,14 @@ Streamlit Cloud - Deployed and running in production
 ✅ Fully deployed in production - Accessible globally
 ✅ Modern UI with a dark-themed, highly optimized user experience
 
-# 🚨 Problem Statement
+## 🚨 Problem Statement
 
 ❌ Issues with Finding the Right Doctor
 🌎 Hard to Find Global Specialists → No centralized platform for searching doctors worldwide
 🤖 Lack of AI-powered insights → Existing platforms don’t provide AI-enhanced recommendations
 ❌ Scattered & Outdated Information → Many hospital directories are not updated in real-time
 
-# 💡 My Solution
+## 💡 My Solution
 🚀 A Web App Built Using Streamlit & LLMs to Solve This Problem
 
 🔹 AI-Powered Search → Users can enter specialization & location to find relevant doctors
