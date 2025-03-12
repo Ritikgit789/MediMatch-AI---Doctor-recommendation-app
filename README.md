@@ -1,15 +1,16 @@
 # 🩺 MediMatch AI - Doctor Recommendation System
 
-🚀 AI-Powered Web App to Find the Best Doctors Globally
+🚀 Its an - AI-Powered Web App to Find the Best Doctors Globally.
 
 # 🌍 Deployed Live App
 -- https://medimatch-ai.streamlit.app/
 
-🚀 This app is fully deployed in production and accessible globally.
+This app is fully deployed in production and accessible globally.
 
-### MediMatch AI is a production-ready web application that uses Streamlit and LLMs (Gemini AI) to help users find top-rated doctors worldwide.
+ ###### MediMatch AI is a production-ready web application that uses Streamlit and LLMs (Gemini AI) to help users find top-rated doctors worldwide.
 🔍 Real-time recommendations based on specialization, location, and AI-enhanced doctor insights.
 🌍 Find doctors from different countries and get AI-powered recommendations in a beautifully designed, interactive web app.
+
 
 ### Screenshots
 ![Home page](Assets/Frontend.png)
