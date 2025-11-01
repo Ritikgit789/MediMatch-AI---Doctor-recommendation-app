@@ -1,6 +1,6 @@
 # 🩺 MediMatch AI - Doctor Recommendation System
 
-🚀 Its an - AI-Powered Web App to Find the Best Doctors Globally. 
+🚀 Its an - AI-Powered Web App to Find the Best Doctors Globally with their specifications. 
 
 # 🌍 Deployed Live App
 -- https://medimatch-ai.streamlit.app/
